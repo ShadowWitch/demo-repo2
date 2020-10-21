@@ -1,1 +1,12 @@
-ide-config
+
+# Aqui hay unas especies de "plantillas de configuracion de gitignore"
+# https://github.com/github/gitignore
+
+
+
+# Le estoy diciendo que me Ignore todos los archivos que empiezen con la palabra "ide-config" (Es por esa razon que tambien me esta ignorando el "ide-config2")
+
+# 		ide-config*
+
+# Que me ignore todo lo que esta dentro de la Carpeta llamada "config"
+/config/
